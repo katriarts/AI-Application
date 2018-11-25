@@ -1,0 +1,38 @@
+Depression is a leading mental disorder impacting about 16 million Americans. According to the World Health Organization, the annual global economic impact of depression is estimated at $1 trillion and is projected to be the leading cause of disability by 2020.
+
+Depression AI Applications Overview
+The majority of AI use-cases for managing depression appear to fall into three major categories:
+
+Virtual Counseling: Companies are developing software using machine learning to recognize episodes of depression and to provide support using natural language processing.
+Patient Monitoring: Machine learning is employed to monitor patients and to predict and prevent the onset of a mental health crisis.
+Precision Therapy: Firms are using machine learning analytics to track and correlate cognitive function, clinical symptoms and brain activity.
+
+(ref: https://www.techemergence.com/diagnosing-and-treating-depression-with-ai-ml/)
+
+----------------------------------------
+
+AI Can Identify Depression Based On A Natural Conversation, An MIT Study Finds
+
+Depression, a silent illness of the mind, is all too prevalent in the U.S. When depression is gone untreated, it can result in some very negative consequences. 
+In the recent year we have seen tragic consequences of depression, thus finding a way to combat is of great significance to our society, and the world at large. 
+No one is immune to depression, although some people may be more predisposed to it than others, depression is a condition that can affect anyone in some point in their life. 
+Although it is a condition of the mind, depression is also often accompanied by physical symptoms such as fatigue, inability to focus or perform tasks that were easy before. 
+According to National Institute of Mental Health (NIMH), depression one of the most common mental disorders in the U.S., with an estimate of 16.2 million people experiencing depression, and out of those 10.3 million adults had depression with severe impairment.
+
+Adults experiencing episodes of depression tend to shy away from actively seeking help due to what they are experiencing psychologically. 
+NIMH indicates that 37% of adults with depression did not receive any treatment. 
+This indicates that a large number of people may be experiencing grave and severe symptoms, without any help. 
+So a question arises, how can we help diagnose depression in those people who do not actively seek out a professional?
+
+Researchers at MIT found a way to use neural networks to recognize speech patterns in people that are indicative in depression. 
+What is unique about this approach is that the model is trained in such a way as to recognize depression based on normal conversation through text or audio, rather than responses to a pre-set questionnaire. 
+Previously Machine Learning has been able to detect depression from question and answer surveys, however, this is novel in that it uses no question and answer input, rather it is based on free flowing conversations. 
+In order to carry out their experiment, the researchers used a set of text, audio and video interviews of patients with mental-health issues. 
+The data set of 142 interactions was taken from the Distress Analysis Interview Corpus. Their model was trained on this data set, and it found that it accurately predicted depression in adults using a context-free method, meaning a method that does not require to ask certain questions - such as 'are you feeling depressed?' 
+Rather it looked at natural, free flowing conversation, picking up complementary cues coming from two modalities - text and audio, while not imposing a constraint on the type of content that was discussed. 
+The model picks up a chain of words or speaking sequences and sees whether these speech patterns are more likely to be found in people who are depressed or those who are not depressed. 
+In this way, it can determine who is likely to be depressed and who is not. 
+Because the model is generalized and does not rely on specific questions to be asked - the hope is that this AI model can be implemented into mobile apps that will allow people to detect depression through natural conversation and help those who do not actively seek treatment. 
+
+(ref: https://www.forbes.com/sites/annapowers/2018/09/30/ai-senses-depression-in-people-based-on-how-they-talk-an-mit-study-finds/#389aae176f56)
+
